@@ -12,34 +12,37 @@
   </tbody>
 </table>
 
-### Markdown
+### WHO IS SOFTADDICT
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+SoftAddict is a Passionate agile information security savvy & Ethical hacker, His skills consists of : 
+-Penetration testing 
+-Ethical Hacking
+-Web Penetration
+-Programming
+-Social Engineering
+-Exploitation
+-Incident Response 
+-Mitigation and Security
+-Privilege Escalation
+- INformation Gathering
+and more...
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+<table>
+  <tbody>
+    <tr>
+      <td><a href="/">Home</a></td>
+      <td><a href="https://github.com/SoftAddict">Profile</a></td>
+      <td><a href="https://medium.com/me/stories/public">Writeups</a></td>
+      <td><a href=""></a></td>
+      <td><a href=""></a></td>
+    </tr>
+  </tbody>
+</table>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SoftAddict/SoftAddict.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

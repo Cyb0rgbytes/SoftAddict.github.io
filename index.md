@@ -15,15 +15,15 @@
 ### WHO IS SOFTADDICT
 
 SoftAddict is a Passionate agile information security savvy & Ethical hacker, His skills consists of : 
--Penetration testing 
--Ethical Hacking
--Web Penetration
--Programming
--Social Engineering
--Exploitation
--Incident Response 
--Mitigation and Security
--Privilege Escalation
+- Penetration testing 
+- Ethical Hacking
+- Web Penetration
+- Programming
+- Social Engineering
+- Exploitation
+- Incident Response 
+- Mitigation and Security
+- Privilege Escalation
 - INformation Gathering
 and more...
 
